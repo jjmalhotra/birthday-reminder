@@ -1,6 +1,6 @@
 import papa from './images/Papa.jpg';
 import mummy from './images/Mummy.jpg';
-import aashni from './images/A0ashni.jpg';
+import aashni from './images/Aashni.jpg';
 
 export const data = [
     {
